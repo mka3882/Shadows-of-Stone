@@ -1,0 +1,4 @@
+repository "Shadows of Stone@Dev_Spot@cloud"
+  path "/"
+    br "/main"
+    co "/main"
